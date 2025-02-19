@@ -16,12 +16,14 @@ body{
     font-size: 95px;
 }
 .top-suit{
+    color: black;
     position: absolute;
     top: 20px;
     left: 20px;
     font-size: 70px;
 } 
 .bottom-suit {
+    color: black;
     position: absolute;
     bottom: 20px;
     right: 20px;
